@@ -1,2 +1,4 @@
-# This is a test, woo hoo
-# Ok This is not working properly
+import numpy as np
+import pandas as pd
+
+x = np.array([1, 2, 3, 4])
